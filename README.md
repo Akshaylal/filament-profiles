@@ -15,3 +15,5 @@ Filament profiles for Orca Slicer and Bambu Studio
 - **PLA Silk**
   - 0.2mm nozzle
   - 0.4mm nozzle
+- **PETG**
+  - 0.4mm nozzle
