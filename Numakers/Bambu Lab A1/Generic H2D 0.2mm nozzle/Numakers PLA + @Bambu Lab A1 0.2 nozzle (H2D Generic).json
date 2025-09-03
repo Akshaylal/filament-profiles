@@ -1,0 +1,13 @@
+{
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "Numakers PLA + @Bambu Lab A1 0.2 nozzle (H2D Generic)"
+    ],
+    "from": "User",
+    "inherits": "Numakers PLA + @Bambu Lab A1 0.2 nozzle",
+    "is_custom_defined": "0",
+    "name": "Numakers PLA + @Bambu Lab A1 0.2 nozzle (H2D Generic)",
+    "version": "1.10.0.35"
+}
